@@ -1,0 +1,17 @@
+{
+    "loginPage": {
+        "emailInputField": "[name='email']",
+        "passwordField": "[type='password']",
+        "submitButton": "[type='submit']"
+    },
+    "createPage": {
+        "addBoardField": "[title='Add new Board']",
+        "newBoardTitleField": "[name='name']",
+        "nextButton": "[name='next_btn']",
+        "BoardType": "[name='type_scrum']",
+        "checkBoard": "[href='/boards/17591']",
+        "clickFooter": "[title='More']"
+
+
+    }
+}
